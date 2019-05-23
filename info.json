@@ -1,0 +1,10 @@
+{
+	"title": "SPIFF",
+	"logo" : "logo.png",
+	"menu" : {
+		"SPIFF" : "background.html",
+		"ABOUT" : "about.html",
+		"CUSTOMIZE" : "custom.html",
+		"CONTACT" : "http://www.mazzybell.com"
+	}
+}
